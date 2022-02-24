@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/todolistflutter/MainActivity.java
+ com.example.todolistflutter.MainActivity
+com/example/todolistflutter/BuildConfig.java
+ com.example.todolistflutter.BuildConfig
